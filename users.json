@@ -1,0 +1,18 @@
+{
+    "user1": {
+        "password": "pwd123",
+        "balance": 500
+    },
+    "admin": {
+        "password": "adm321",
+        "balance": 0
+    },
+    "adam": {
+        "password": "smith",
+        "balance": 0
+    },
+    "test": {
+        "password": "testtt",
+        "balance": 0
+    }
+}
